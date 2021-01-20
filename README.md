@@ -21,10 +21,27 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+  
+## Links:
+* [README](https://github.com/GD-Prasad/gd-nest-api/edit/main/README.md)
+* [Heroku Application Link: ](https://gd-nest-api.herokuapp.com/) 
+* [Heroku Link: ](https://dashboard.heroku.com/apps/gd-nest-api/deploy/github)
+Repo includes URL (to hosted Heroku app)
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. The framework is built by taking the concepts of Angular putting it on top of expressJS.
+Some advantages of using Nest:
+* Modularity
+* Easy to develop
+* Integration with other applications
+* Extensibility
+* Maintainable
+* Performance
+* Easy to test and deploy
+* DevOps support ready
+* Support for microservices
+* REST & GraphQL
 
 ## Installation
 
