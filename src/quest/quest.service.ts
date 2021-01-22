@@ -12,7 +12,7 @@ export class QuestService {
     return `This action returns all quest`;
   }
 
-  findOne(id: number) {
+  findOne(id: string) {
     return `This action returns a #${id} quest`;
   }
 
